@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context
+        docBase="/opt/geowebcache"
+        path="/geowebache">
+    <Resources
+            cachingAllowed="true"
+            cacheMaxSize="100000"
+    />
+</Context>
